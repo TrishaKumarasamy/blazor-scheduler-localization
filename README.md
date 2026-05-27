@@ -1,6 +1,6 @@
 # Blazor Scheduler Localization
 
-A comprehensive example demonstrating multi-language support for the Blazor Scheduler component in a modern .NET 8 Blazor Web App environment. This sample showcases best practices for localizing interactive UI components with resource files and custom localizers.
+A comprehensive example demonstrating multi-language support for the [Blazor Scheduler component](https://www.syncfusion.com/blazor-components/blazor-scheduler) in a Blazor Web App environment. This sample showcases best practices for localizing interactive UI components with resource files and custom localizers.
 
 ## Overview
 
@@ -10,9 +10,9 @@ This project demonstrates how to implement localization (i18n) for the Blazor Sc
 
 - **Multi-language Support** – Built-in support for 5+ languages with extensible resource files
 - **Custom Localizer** – Implements `ISyncfusionStringLocalizer` for seamless component translation
-- **Blazor Web App** – Uses .NET 8 Blazor interactive rendering capabilities
+- **Blazor Web App** – Uses Blazor interactive rendering capabilities
 - **Resource Management** – RESX-based resource files for easy maintenance and updates
-- **Production Ready** – Follows Microsoft and Syncfusion best practices
+- **Production Ready** – Follows Microsoft and best practices
 
 ## Prerequisites
 
@@ -38,9 +38,9 @@ cd blazor-scheduler-localization
 
 ## References
 
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
 - [Blazor Localization Documentation](https://blazor.syncfusion.com/documentation/common/localization/)
-- [Syncfusion Blazor Locale Repository](https://github.com/syncfusion/blazor-locale)
-- [Microsoft Blazor Globalization Guide](https://learn.microsoft.com/en-us/aspnet/core/blazor/globalization-localization)
-- [.NET Resource Files (.resx)](https://learn.microsoft.com/en-us/dotnet/core/extensions/work-with-resx-files-programmatically)
+- [Blazor Scheduler Documentaion](https://blazor.syncfusion.com/documentation/scheduler/getting-started-webapp)
+- [Online Scheduler Demo](https://blazor.syncfusion.com/demos/scheduler/overview?theme=fluent2)
+
 
